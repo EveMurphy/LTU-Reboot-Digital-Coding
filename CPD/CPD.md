@@ -6,7 +6,7 @@ Date of CPD activity
 CPD activity
 Introduction to Web Development
 
-What have I learnt?
+What have I learnt? How to practice editing on websites
 
 I learnt about the different positions in web development, like what a front end developer is and does....
 
