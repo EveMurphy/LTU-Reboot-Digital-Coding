@@ -1,11 +1,21 @@
 a {
-    color: grey; font-size: 18px; 
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: grey; font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px; 
     border: 1px solid pink;
-    position:relative;
-    top: 0px;
-    right: 0px;
+}
+
+ol {
+    display: flex;
+    justify-content: space-evenly;
+    width: 380px;
+    
 }
