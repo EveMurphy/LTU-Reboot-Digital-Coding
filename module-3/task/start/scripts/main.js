@@ -49,6 +49,8 @@ check drink
 
 //function drinkOrder (drink, size) {
 
+/*
+
     let drinkLow = drink.toLowerCase();
 
     switch( drinkLow ) {
@@ -91,3 +93,14 @@ switch(operator){
 
 }
 calculator (5, 5, '+');
+
+*/ 
+
+let productAsAnArray = [ productName, price, quantity, inStock, discountAmount ] ;
+
+let firstItem = productAsAnArray [0]; // Baked beans
+
+let lastItem = productAsAnArray [4];
+
+console.log( firstItem );
+console.log( lastItem);
